@@ -3,7 +3,7 @@
 
 
 - :telescope: I’m currently working as front end developer in a European Union application for the environment
-- :speech_balloon: Ask me about JavaScript (React), MySQL ,PHP, Java
+- :speech_balloon: Ask me about JavaScript (React), Graphic Design, MySQL, Java, Linux
 
 
 
